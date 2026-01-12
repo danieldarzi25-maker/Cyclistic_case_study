@@ -1,4 +1,4 @@
-# Daniel's Analytics Portfolio
+# Daniel Darzi's Analytics Portfolio
 
 ## Cyclistic Bike-Share Case Study
 Analytics portfolio – Cyclistic bike-share case study and data cleaning report.
